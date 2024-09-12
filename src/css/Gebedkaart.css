@@ -1,0 +1,34 @@
+.Gebedkaart {
+    padding: 20px 10px;
+    border-radius: 10px;
+    background-color: #3C3D37;
+}
+
+.ImageContainer {
+    width: 100%;
+    height: 20%;
+}
+
+.ImageContainer img {
+    width: 140px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.TextContainer {
+    margin-top: 10px;
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.TextContainer p {
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
