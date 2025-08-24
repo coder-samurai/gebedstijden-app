@@ -15,7 +15,7 @@ export default function Wie() {
           </div>
           <div className="WieTextContainer">
             <h1>Wie ben ik?</h1>
-            <p>een jonge man van 18 jaar die van web development houdt, ongeveer 3 jaar geleden begon ik met programmeren, met programming kan je alles maken daarom ben ik een programmeur.</p>
+            <p>een jonge man van 18 jaar die van web, python, ai, elektronica houdt, ongeveer 3 jaar geleden begon ik in deze wereld, met programming kan je alles maken daarom is het leuk.</p>
           </div>
         </div>
       </div>
